@@ -68,3 +68,4 @@ Sample interaction screenshots
 Functional web chatbot interface
 ## 📸 Sample Output
 ![Chatbot Output](output.jpg)
+🧠 *This screenshot demonstrates the chatbot generating a relevant response to the user’s query using a GPT-based model.*

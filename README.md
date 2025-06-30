@@ -66,3 +66,5 @@ Complete source code
 Sample interaction screenshots
 
 Functional web chatbot interface
+## 📸 Sample Output
+![Chatbot Output](output.jpg)
